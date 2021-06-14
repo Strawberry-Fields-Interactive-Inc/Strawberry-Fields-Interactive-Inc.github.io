@@ -50,27 +50,27 @@ body {
 }
 
 .social-glow0:hover {
-  box-shadow: 0px 0px 30px 0px RGBA(219,49,60,1)
+  box-shadow: 0px 0px 30px 0px RGBA(219,49,60,1), inset 0px 0px 90px -55px RGBA(219,49,60,1);
 }
 
 .social-glow1:hover {
-  box-shadow: 0px 0px 30px 0px RGBA(225,151,62,1)
+  box-shadow: 0px 0px 30px 0px RGBA(225,151,62,1), inset 0px 0px 90px -55px RGBA(225,151,62,1);
 }
 
 .social-glow2:hover {
-  box-shadow: 0px 0px 30px 0px RGBA(248,218,49,1)
+  box-shadow: 0px 0px 30px 0px RGBA(248,218,49,1), inset 0px 0px 90px -55px RGBA(248,218,49,1);
 }
 
 .social-glow3:hover {
-  box-shadow: 0px 0px 30px 0px RGBA(102,224,0,1)
+  box-shadow: 0px 0px 30px 0px RGBA(102,224,0,1), inset 0px 0px 90px -55px RGBA(102,224,0,1);
 }
 
 .social-glow4:hover {
-  box-shadow: 0px 0px 30px 0px RGBA(111,65,210,1)
+  box-shadow: 0px 0px 30px 0px RGBA(111,65,210,1), inset 0px 0px 90px -55px RGBA(111,65,210,1);
 }
 
 .social-glow5:hover {
-  box-shadow: 0px 0px 30px 0px RGBA(95,186,217,1)
+  box-shadow: 0px 0px 30px 0px RGBA(95,186,217,1), inset 0px 0px 90px -50px RGBA(95,186,217,1);
 }
 
 .mce-email-input {
@@ -134,7 +134,7 @@ footer {
 }
 
 .logo-section img {
-  width: 700px;
+  width: 850px;
 }
 
 .middle {
