@@ -178,4 +178,8 @@ footer {
   .logo-section img {
   width: 450px;
   }
+
+  .copywrite-section {
+    padding: 0 10px;
+  }
 }
