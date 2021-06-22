@@ -37,6 +37,7 @@ a:visited, a {
   flex-direction: column;
   justify-content: center;
   width: 100%;
+  height: 40vh;
 }
 
 .logo-section {
@@ -147,7 +148,7 @@ footer {
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 50%;
+  height: 35vh;
 }
 
 .bottom {
@@ -155,7 +156,7 @@ footer {
   flex-direction: column;
   justify-content: flex-end;
   width: 100%;
-  height: 15%;
+  height: 10vh;
   color: #C6C2A7;
   margin-top: 100px;
 }
