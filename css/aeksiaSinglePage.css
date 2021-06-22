@@ -21,6 +21,10 @@ body {
   height: 90vh;
 }
 
+a:visited, a {
+  color: inherit;
+}
+
 .wrapper {
   display: flex;
   flex-direction: column;
@@ -45,7 +49,7 @@ body {
 }
 
 .logo-section img {
-  width: 850px;
+  width: 1000px;
 }
 
 .cta-block {
@@ -159,7 +163,7 @@ footer {
 
 .copywrite-section {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-content: center;
   justify-content: center;
   align-self: flex-end;
