@@ -1,0 +1,34 @@
+ 
+$aeksia-color-light-teal : #2bbab6;
+$aeksia-color-mid-teal : #188484;
+$aeksia-color-mid-yellow : #a08410;
+$aeksia-color-low-yellow : #51441c;
+$aeksia-color-mid-red : #8c2523;
+
+
+.aeksia-form
+{
+  background-color: white;
+  border-radius: 5px;
+  margin-left:25%;
+  margin-right:25%;
+  padding:5%;
+}
+
+
+a.router-link-exact-active {
+  color: $aeksia-color-light-teal;
+}
+a{
+  color: $aeksia-color-mid-teal;
+}
+
+#app{
+  .btn-primary
+  {
+    background-color: $aeksia-color-mid-yellow;
+    border-color: $aeksia-color-low-yellow;
+  }
+ 
+}
+
