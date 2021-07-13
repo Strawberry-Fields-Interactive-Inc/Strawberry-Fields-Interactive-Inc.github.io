@@ -148,7 +148,7 @@ footer {
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 35vh;
+  height: 43vh;
 }
 
 .bottom {
@@ -156,9 +156,9 @@ footer {
   flex-direction: column;
   justify-content: flex-end;
   width: 100%;
-  height: 10vh;
+  height: 5vh;
   color: #C6C2A7;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .copywrite-section {
@@ -170,6 +170,32 @@ footer {
   width: 100%;
   text-align: center;
   margin: 0 0 10px 0;
+}
+
+.bottom-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+
+}
+
+.press-button {
+  margin: 10px 0;
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  border: none;
+  color: #ffffff;
+  font-size: 20px;
+  background: #D6B425;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.press-button:active {
+  background: #917a19;
 }
 
 @media (max-width: 500px) {
